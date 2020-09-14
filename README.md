@@ -31,7 +31,7 @@ Beside private projects I participate in general open source projects and in ope
 | [flutter-deltachat-core](https://github.com/open-xchange/flutter-deltachat-core) | OX Software GmbH | Inactive  | Maintainer / lead |
 | [ox-coi](https://github.com/open-xchange/ox-coi)                                 | OX Software GmbH | Inactive  | Maintainer / lead |
 
-### Used languages and tech
+### Used languages and tech 🔧
 
 I'm using different languages and tech to develop my software. I adapt to new solutions and ideas as often as possible, to stay up to date with current developments. Currently I'm using:
 

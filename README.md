@@ -35,10 +35,10 @@ Beside private projects I participate in general open source projects and in ope
 
 I'm using different languages and tech to develop my software. I adapt to new solutions and ideas as often as possible, to stay up to date with current developments. Currently I'm using:
 
-- Desktop + UI: Java. But waiting for the full Dart + Flutter desktop support to switch
-- Android: Java and Dart + Flutter. But mostly Flutter in the last months
-- Server: Java and Kotlin. Transitioning to Kotlin only
-- Shell / consoles: Bash
-- Web: Hugo static side generator
+- **Desktop + UI:** Java. But waiting for the full Dart + Flutter desktop support to switch
+- **Android:** Java and Dart + Flutter. But mostly Flutter in the last months
+- **Server:** Java and Kotlin. Transitioning to Kotlin only
+- **Shell / consoles:** Bash
+- **Web:** Hugo static side generator
 
 I'm currently trying to focus on Dart + Flutter for all UI driven projects and on Kotlin for server development. As I'm mainly an Android developer I also stay with Java for a bit, but I'm also trying to adapt my Kotlin knowledge for that area.

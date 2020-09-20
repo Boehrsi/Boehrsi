@@ -33,7 +33,7 @@ Beside private projects I participate in general open source projects and in ope
 
 ### Used languages and tech 🔧
 
-I'm using different languages and tech to develop my software. I adapt to new solutions and ideas as often as possible, to stay up to date with current developments. Currently I'm the following tech stacks.
+I'm using different languages and tech to develop my software. I adapt to new solutions and ideas as often as possible, to stay up to date with current developments. Currently I'm using the following tech stacks.
 
 - **Desktop + UI:** Java. But waiting for the full Dart + Flutter desktop support to switch
 - **Android:** Java and Dart + Flutter. But mostly Flutter in the last months

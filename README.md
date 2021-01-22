@@ -6,8 +6,6 @@ Currently I'm actively working on the following projects.
 |---------------------------------------------------------------------------------------------|-------------------------|
 | [hugo-implementation-details](https://github.com/Boehrsi/hugo-implementation-details)       | Features &  Maintenance |
 | [implementation-details-flutter](https://github.com/Boehrsi/implementation-details-flutter) | Features &  Maintenance |
-| [resizy](https://github.com/Boehrsi/resizy)                                                 | Maintenance             |
-
 
 Other self-created repositories may exist on this account and may be picked up later again, but until further notice all not mentioned repositories are currently on hold.
 

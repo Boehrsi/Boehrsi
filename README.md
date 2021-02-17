@@ -16,7 +16,7 @@ During my development I use numerous awesome libraries and tools out there and i
 * [clearlydefined](https://github.com/Boehrsi/clearlydefined)
 * [flutter](https://github.com/Boehrsi/flutter)
 * [FlutterToast](https://github.com/Boehrsi/FlutterToast)
-* [plus_plugins](https://github.com/fluttercommunity/plus_plugins)
+* [plus_plugins](https://github.com/Boehrsi/plus_plugins)
 * [table_calendar](https://github.com/Boehrsi/table_calendar)
 * [tink](https://github.com/Boehrsi/tink)
 

@@ -7,7 +7,6 @@ Currently I'm actively working on the following projects.
 | [Boehrsi.de-Status](https://github.com/Boehrsi/Boehrsi.de-Status) | Features &  Maintenance |
 | [device_marketing_names](https://github.com/Boehrsi/device_marketing_names) | Features &  Maintenance |
 | [device_identifiers](https://github.com/Boehrsi/device_identifiers) | Features &  Maintenance |
-| [device_marketing_names](https://github.com/Boehrsi/device_marketing_names) | Features &  Maintenance |
 | [hugo-implementation-details](https://github.com/Boehrsi/hugo-implementation-details)       | Features &  Maintenance |
 | [implementation-details-flutter](https://github.com/Boehrsi/implementation-details-flutter) | Features &  Maintenance |
 | [on_upgrade](https://github.com/Boehrsi/on_upgrade) | Features &  Maintenance |

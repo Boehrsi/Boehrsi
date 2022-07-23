@@ -1,3 +1,5 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=boehrsi&count_private=true&show_icons=true&theme=dark)
+
 ### Active projects ⚡
 
 Currently I'm actively working on the following projects.
@@ -36,6 +38,8 @@ Beside private projects I participate in open source projects supported by my em
 ### Used languages and tech 🔧
 
 I'm using different languages and tech to develop my software. I adapt to new solutions and ideas as often as possible, to stay up to date with current developments. Currently I'm using the following tech stacks.
+
+![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=boehrsi&theme=dark)
 
 - **Desktop + UI:** Dart + Flutter
 - **Android:** Dart + Flutter and Kotlin (Java only for legacy code)

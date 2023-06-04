@@ -47,5 +47,6 @@ I'm using different languages and tech to develop my software. I adapt to new so
 - **Server:** Kotlin (Java only for legacy code)
 - **Shell / consoles:** Bash and Dart
 - **Web:** Hugo static side generator
+- **Games:** Godot Engine (GDScript)
 
 I'm currently trying to focus on Dart + Flutter for all UI driven projects and on Kotlin for the server development. Java is only used for legacy code.

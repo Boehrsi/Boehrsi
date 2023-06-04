@@ -11,6 +11,7 @@ Currently I'm actively working on the following projects.
 | [device_marketing_names](https://github.com/Boehrsi/device_marketing_names) | Features &  Maintenance |
 | [device_identifiers](https://github.com/Boehrsi/device_identifiers) | Features &  Maintenance |
 | [on_upgrade](https://github.com/Boehrsi/on_upgrade) | Features &  Maintenance |
+| [Raffle Companion](https://github.com/Boehrsi/Raffle-Companion) | Features &  Maintenance |
 
 Other self-created repositories may exist on this account and may be picked up later again, but until further notice all not mentioned repositories are currently on hold.
 
